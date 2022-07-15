@@ -1,6 +1,8 @@
 # Snail jumper
-**Neuroevolution game assignment.**  
-**Fall 2021 - Computer Intelligence.**  
+This is the neuroevolution project for the Computational Intelligence courese at the Amirkabir University of Technology.
 
-This game has been developed as an assignment for students at Amirkabir University of Technology to apply neuroevolution using a simple game.  
+
+* Roulette wheel, SUS and Q-tournament algorithms are implemented for selecting the next generation and generating a new population.
+
+
 ![Snail Jumber](SnailJumper-master/SnailJumper.png)
